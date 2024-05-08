@@ -10,7 +10,7 @@
 
 
 ## Time
-- I started documenting these scripts on **28.04.2023**.
+- I started documenting these scripts on 28.04.2023
 
 
 ## Other Information
