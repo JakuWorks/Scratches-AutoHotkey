@@ -14,7 +14,7 @@
 
 
 ## Other Information
-- Thoroughly analyze the scripts before running them! I am not responsible for any damage :)
+- Thoroughly analyze the scripts before running them! I am not responsible for any damage
 
 
 ## Requirements
