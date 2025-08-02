@@ -4,6 +4,7 @@
 
     ; Date created: 28.04.2023
     ; Easily expand all your VSCode explorer folds just by holding L
+    ; 2025 edit - This script is archived and may cause issues. You have been warned.
 
 
 ; -------------------------------------------------------------------------------------------------------------------------------------
@@ -14,6 +15,7 @@
 ; THIS SCRIPT WAS WRITTEN IN 2023, I MAY NOT SUPPORT NEWER VERSIONS OF VSCODE  
 
 ; Because the only key USED IN THIS SCRIPT, that can interact with the "Do You want to save changes" window is SPACE, then 99% the not closed editor tabs' changes are going to be saved.
+MsgBox "THIS SCRIPT IS VERY OLD AND WILL VERY LIKELY CAUSE ISSUES. IT IS LIKELY THAT VSCODE ALREADY HAS THIS FEATURE. YOU HAE BEEN WARNED!"
 MsgBox "CLOSE ALL EDITOR WINDOWS UNLESS YOU WANT TO SUFFER THE CONSEQUENCES AND LOSE DATA"
 
 
